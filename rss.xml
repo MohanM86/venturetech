@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VentureTech</title>
+    <link>https://venturetech.no</link>
+    <description>Norsk venture studio som bygger teknologiselskaper sammen med gründere.</description>
+    <language>nb</language>
+    <lastBuildDate>Sat, 09 Mar 2026 12:00:00 +0100</lastBuildDate>
+    <atom:link href="https://venturetech.no/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>VentureTech lansert</title>
+      <link>https://venturetech.no</link>
+      <description>VentureTech er et nytt norsk venture studio som bygger teknologiselskaper sammen med gründere. Vi stiller med utviklere, designere og AI-ingeniører mot eierskap.</description>
+      <pubDate>Sat, 09 Mar 2026 12:00:00 +0100</pubDate>
+      <guid>https://venturetech.no/#lansering</guid>
+    </item>
+  </channel>
+</rss>

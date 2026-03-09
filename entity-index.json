@@ -1,0 +1,117 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "VentureTech",
+  "alternateName": "VentureTech Norway",
+  "url": "https://venturetech.no",
+  "description": "Norsk venture studio som bygger teknologiselskaper sammen med gründere. Stiller med utviklere, designere, AI-ingeniører og markedsførere mot eierskap.",
+  "foundingDate": "2024",
+  "areaServed": {
+    "@type": "Country",
+    "name": "Norway"
+  },
+  "knowsAbout": [
+    "venture studio",
+    "startup building",
+    "AI",
+    "maskinlæring",
+    "SaaS",
+    "fullstack-utvikling",
+    "produktdesign",
+    "SEO",
+    "norsk teknologi"
+  ],
+  "model": {
+    "type": "Venture Studio",
+    "ownershipRange": "20-40%",
+    "timeToMVP": "8-12 uker",
+    "servicesIncluded": [
+      "Fullstack-utvikling",
+      "AI og maskinlæring",
+      "Produktdesign",
+      "SEO og vekst",
+      "Infrastruktur og DevOps",
+      "Forretningsstrategi"
+    ],
+    "process": [
+      {"step": 1, "name": "Send inn ide", "duration": "15 minutter"},
+      {"step": 2, "name": "Analyse", "duration": "2-4 uker"},
+      {"step": 3, "name": "Bygge MVP", "duration": "8-12 uker"},
+      {"step": 4, "name": "Stifte selskapet", "duration": "2-3 uker"},
+      {"step": 5, "name": "Skalere", "duration": "6-18 måneder"}
+    ]
+  },
+  "portfolio": [
+    {
+      "name": "KlarAI",
+      "status": "under_utvikling",
+      "category": "AI kundeservice",
+      "description": "AI-kundeservice som forstår norsk. Chatbot for e-post, chat og telefon."
+    },
+    {
+      "name": "TilbudLoop",
+      "status": "under_utvikling",
+      "category": "PropTech / Håndverk",
+      "description": "Håndverkere lager profesjonelle tilbud med AI og smarte maler."
+    },
+    {
+      "name": "DokSignAI",
+      "status": "under_utvikling",
+      "category": "LegalTech",
+      "description": "AI som leser, oppsummerer og identifiserer risiko i kontrakter."
+    },
+    {
+      "name": "GrønnRapport",
+      "status": "kommer_snart",
+      "category": "ESG / RegTech",
+      "description": "Automatisert ESG-rapportering for norske og EU-krav."
+    },
+    {
+      "name": "SøkSmart",
+      "status": "kommer_snart",
+      "category": "MarTech / SEO",
+      "description": "AI-drevet SEO-verktøy for det norske markedet."
+    },
+    {
+      "name": "ByggBot",
+      "status": "kommer_snart",
+      "category": "ConTech",
+      "description": "AI-assistent for byggesøknader og reguleringsplaner."
+    },
+    {
+      "name": "HyreFlyt",
+      "status": "idefase",
+      "category": "PropTech",
+      "description": "Korttidsleie av næringslokaler i norske byer."
+    },
+    {
+      "name": "MatchDev",
+      "status": "idefase",
+      "category": "Marketplace",
+      "description": "Markedsplass som kobler nordiske startups med utviklere."
+    },
+    {
+      "name": "LønnOpp",
+      "status": "idefase",
+      "category": "HR / Payroll",
+      "description": "Moderne lønn og HR skreddersydd for norsk lovgivning."
+    },
+    {
+      "name": "FakturaFlyt",
+      "status": "idefase",
+      "category": "FinTech",
+      "description": "Automatisert fakturering med AI-optimalisert purring."
+    }
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "general",
+    "availableLanguage": ["Norwegian", "English"]
+  },
+  "sameAs": [],
+  "meta": {
+    "generatedAt": "2026-03-09",
+    "version": "1.0",
+    "format": "entity-index"
+  }
+}

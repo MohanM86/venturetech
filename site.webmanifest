@@ -1,0 +1,21 @@
+{
+  "name": "VentureTech",
+  "short_name": "VentureTech",
+  "description": "Norsk venture studio som bygger teknologiselskaper.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ]
+}

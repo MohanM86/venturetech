@@ -1,0 +1,54 @@
+# VentureTech
+
+> Norsk venture studio som bygger teknologiselskaper sammen med gründere.
+
+VentureTech er et venture studio basert i Norge. Vi er ikke investorer. Vi er medgrunnere som stiller med et komplett teknisk team: utviklere, designere, AI-ingeniører og markedsførere. Gründeren kommer med ideen og visjonen. Til gjengjeld tar vi eierskap i selskapet.
+
+## Modell
+
+- Gründer sender inn en ide
+- Vi analyserer marked og gjennomførbarhet (2-4 uker)
+- Vi bygger MVP sammen (8-12 uker)
+- Vi stifter aksjeselskapet (2-3 uker)
+- Vi skalerer sammen (6-18 måneder)
+- VentureTech tar 20-40% eierskap per startup
+
+## Hva vi bidrar med
+
+- Fullstack-utvikling
+- AI og maskinlæring
+- Produktdesign (UX/UI)
+- SEO og vekststrategi
+- Infrastruktur og DevOps
+- Forretningsstrategi
+
+## Portefølje
+
+### Under utvikling
+- KlarAI: AI-kundeservice som forstår norsk. Chatbot for e-post, chat og telefon.
+- TilbudLoop: Håndverkere lager profesjonelle tilbud med AI og smarte maler.
+- DokSignAI: AI som leser, oppsummerer og identifiserer risiko i kontrakter.
+
+### Kommer snart
+- GrønnRapport: Automatisert ESG-rapportering for norske og EU-krav.
+- SøkSmart: AI-drevet SEO-verktøy for det norske markedet.
+- ByggBot: AI-assistent for byggesøknader og reguleringsplaner.
+
+### Idefase
+- HyreFlyt: Korttidsleie av næringslokaler i norske byer.
+- MatchDev: Markedsplass som kobler nordiske startups med utviklere.
+- LønnOpp: Moderne lønn og HR skreddersydd for norsk lovgivning.
+- FakturaFlyt: Automatisert fakturering med AI-optimalisert purring.
+
+## Kontakt
+
+- Nettside: https://venturetech.no
+- E-post: hei@venturetech.no
+- Land: Norge
+
+## Lenker
+
+- Personvern: https://venturetech.no/personvern
+- Vilkår: https://venturetech.no/vilkar
+- Sitemap: https://venturetech.no/sitemap.xml
+- Entity Index: https://venturetech.no/entity-index.json
